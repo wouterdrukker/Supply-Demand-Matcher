@@ -1,5 +1,6 @@
 # Supply-Demand-Matcher
 We voluntarily share information about our goals, needs, wants, offerings, skills, interests. The information is accessible and processable to all.
+
 It was mr. Jacque Fresco who first got me thinking about a ‘Resource Based Economy’. A system not based on money and markets, but a planned economy that starts from a survey of the worlds’ resources, and uses scientific planning to fulfill the needs of the population.
 
 The resource based economy always seemed too much top down. When I later became an anarchist, I came up with this idea.
